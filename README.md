@@ -44,6 +44,6 @@ Donate me via BTC wallet
 <br/>
 <br/>
 
-![Donate me](Donate.png)
+![Donate me](donate.png)
 
 bc1qutvpq3msre6es46qtneyk2z40qkgvg80guehaw
